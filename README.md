@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Robotics.
 - 🌱 I’m currently learning Deep-neural-networks.
 - 💞️ I’m looking to collaborate on Autonomous vehicle project
-- 📫 How to reach me - Instagram [@rakesh_.chavan](https://www.instagram.com/rakesh_.chavan/) - rakesh.007ac@gmail.com
+- 📫 How to reach me - rakesh.007ac@gmail.com
 
 <!---
 rakesh-i/rakesh-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
